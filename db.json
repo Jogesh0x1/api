@@ -1,7 +1,16 @@
 {
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
   "visibility": {
-    "aggrid": true,
-    "material": true,
-    "primeng": false
+    "aggrid": "true",
+    "material": "false",
+    "primeng": 4
   }
 }
