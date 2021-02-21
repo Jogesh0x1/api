@@ -2,6 +2,6 @@
   "visibility": {
     "aggrid": true,
     "material": true,
-    "primeng: false
+    "primeng": false
   }
 }
