@@ -7,10 +7,5 @@
   ],
   "profile": {
     "name": "typicode"
-  },
-  "visibility": {
-    "aggrid": "true",
-    "material": "false",
-    "primeng": 4
   }
 }
