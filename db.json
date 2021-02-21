@@ -1,5 +1,7 @@
-{
-"aggrid": true,
-"primeng": true,
-"material": false
-}
+
+  "features": {
+    "aggrid": true,
+    "primeng": true,
+    "material": false
+  }
+
